@@ -1,0 +1,4 @@
+E:\Fall 15\SSDI\Project\Code\SocketHandler\messageSpecs\bin\Debug\messageSpecs.dll
+E:\Fall 15\SSDI\Project\Code\SocketHandler\messageSpecs\bin\Debug\messageSpecs.pdb
+E:\Fall 15\SSDI\Project\Code\SocketHandler\messageSpecs\obj\Debug\messageSpecs.dll
+E:\Fall 15\SSDI\Project\Code\SocketHandler\messageSpecs\obj\Debug\messageSpecs.pdb

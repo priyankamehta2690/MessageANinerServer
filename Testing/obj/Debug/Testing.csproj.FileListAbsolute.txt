@@ -1,0 +1,12 @@
+E:\Fall 15\SSDI\Project\Code\SocketHandler\Testing\obj\Debug\Testing.csprojResolveAssemblyReference.cache
+E:\Fall 15\SSDI\Project\Code\SocketHandler\Testing\bin\Debug\Testing.dll
+E:\Fall 15\SSDI\Project\Code\SocketHandler\Testing\bin\Debug\Testing.pdb
+E:\Fall 15\SSDI\Project\Code\SocketHandler\Testing\bin\Debug\messageSpecs.dll
+E:\Fall 15\SSDI\Project\Code\SocketHandler\Testing\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Fall 15\SSDI\Project\Code\SocketHandler\Testing\bin\Debug\SocketHandler.dll
+E:\Fall 15\SSDI\Project\Code\SocketHandler\Testing\bin\Debug\SQLManager.dll
+E:\Fall 15\SSDI\Project\Code\SocketHandler\Testing\bin\Debug\messageSpecs.pdb
+E:\Fall 15\SSDI\Project\Code\SocketHandler\Testing\bin\Debug\SocketHandler.pdb
+E:\Fall 15\SSDI\Project\Code\SocketHandler\Testing\bin\Debug\SQLManager.pdb
+E:\Fall 15\SSDI\Project\Code\SocketHandler\Testing\obj\Debug\Testing.dll
+E:\Fall 15\SSDI\Project\Code\SocketHandler\Testing\obj\Debug\Testing.pdb

@@ -1,0 +1,15 @@
+E:\Fall 15\SSDI\Project\Code\SocketHandler\SocketTester\bin\Debug\SocketTester.exe.config
+E:\Fall 15\SSDI\Project\Code\SocketHandler\SocketTester\bin\Debug\SocketTester.exe
+E:\Fall 15\SSDI\Project\Code\SocketHandler\SocketTester\bin\Debug\SocketTester.pdb
+E:\Fall 15\SSDI\Project\Code\SocketHandler\SocketTester\bin\Debug\messageSpecs.dll
+E:\Fall 15\SSDI\Project\Code\SocketHandler\SocketTester\bin\Debug\SocketHandler.dll
+E:\Fall 15\SSDI\Project\Code\SocketHandler\SocketTester\bin\Debug\SQLManager.dll
+E:\Fall 15\SSDI\Project\Code\SocketHandler\SocketTester\bin\Debug\messageSpecs.pdb
+E:\Fall 15\SSDI\Project\Code\SocketHandler\SocketTester\bin\Debug\SocketHandler.pdb
+E:\Fall 15\SSDI\Project\Code\SocketHandler\SocketTester\bin\Debug\SQLManager.pdb
+E:\Fall 15\SSDI\Project\Code\SocketHandler\SocketTester\obj\Debug\SocketTester.csprojResolveAssemblyReference.cache
+E:\Fall 15\SSDI\Project\Code\SocketHandler\SocketTester\obj\Debug\SocketTester.Form1.resources
+E:\Fall 15\SSDI\Project\Code\SocketHandler\SocketTester\obj\Debug\SocketTester.Properties.Resources.resources
+E:\Fall 15\SSDI\Project\Code\SocketHandler\SocketTester\obj\Debug\SocketTester.csproj.GenerateResource.Cache
+E:\Fall 15\SSDI\Project\Code\SocketHandler\SocketTester\obj\Debug\SocketTester.exe
+E:\Fall 15\SSDI\Project\Code\SocketHandler\SocketTester\obj\Debug\SocketTester.pdb

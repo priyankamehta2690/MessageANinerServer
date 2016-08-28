@@ -1,0 +1,11 @@
+E:\Fall 15\SSDI\Project\Code\SocketHandler\SocketHandler\bin\Debug\SocketHandler.dll
+E:\Fall 15\SSDI\Project\Code\SocketHandler\SocketHandler\bin\Debug\SocketHandler.pdb
+E:\Fall 15\SSDI\Project\Code\SocketHandler\SocketHandler\bin\Debug\messageSpecs.dll
+E:\Fall 15\SSDI\Project\Code\SocketHandler\SocketHandler\bin\Debug\SQLManager.dll
+E:\Fall 15\SSDI\Project\Code\SocketHandler\SocketHandler\bin\Debug\messageSpecs.pdb
+E:\Fall 15\SSDI\Project\Code\SocketHandler\SocketHandler\bin\Debug\SQLManager.pdb
+E:\Fall 15\SSDI\Project\Code\SocketHandler\SocketHandler\obj\Debug\SocketHandler.csprojResolveAssemblyReference.cache
+E:\Fall 15\SSDI\Project\Code\SocketHandler\SocketHandler\obj\Debug\SocketHandler.Properties.Resources.resources
+E:\Fall 15\SSDI\Project\Code\SocketHandler\SocketHandler\obj\Debug\SocketHandler.csproj.GenerateResource.Cache
+E:\Fall 15\SSDI\Project\Code\SocketHandler\SocketHandler\obj\Debug\SocketHandler.dll
+E:\Fall 15\SSDI\Project\Code\SocketHandler\SocketHandler\obj\Debug\SocketHandler.pdb
